@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936984835677",
+    "project_id": "striking-bot-333323",
+    "storage_bucket": "striking-bot-333323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936984835677:android:f715f4825c999bf2c6ffb4",
+        "android_client_info": {
+          "package_name": "com.example.myappgpshongos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936984835677-fnu5r80kjqc7kl8422889iqs3dp87jn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkF1-yhfH6JijpZ3rP1EUq5CAAhFsxDmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936984835677-fnu5r80kjqc7kl8422889iqs3dp87jn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

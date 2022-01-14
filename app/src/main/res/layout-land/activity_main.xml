@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:padding="2dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/teal_700"
+        android:gravity="center"
+        android:text="FungiApp"
+        android:textColor="#FFFFFF"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toStartOf="@+id/listadohongospais"
+        app:layout_constraintStart_toEndOf="@+id/btnAgregarHongoInicio"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:srcCompat="@drawable/ic_icon_hongo" />
+
+    <Button
+        android:id="@+id/listadohongos"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="Lista de hongos"
+        android:textColor="@color/teal_700"
+        app:cornerRadius="20dp"
+        style="?attr/materialButtonOutlinedStyle"
+        app:strokeColor="@color/teal_700"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toStartOf="@+id/btnAgregarHongoInicio"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/listadohongospais"
+        style="?attr/materialButtonOutlinedStyle"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="Hongos de tu Pais"
+        android:textColor="@color/teal_700"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toStartOf="@+id/aspectosLegales"
+        app:layout_constraintStart_toEndOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:strokeColor="@color/teal_700" />
+
+    <Button
+        android:id="@+id/btnAgregarHongoInicio"
+        style="?attr/materialButtonOutlinedStyle"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="Agregar Hongo"
+        android:textColor="@color/teal_700"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toStartOf="@+id/imageView"
+        app:layout_constraintStart_toEndOf="@+id/listadohongos"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:strokeColor="@color/teal_700" />
+
+    <Button
+        android:id="@+id/aspectosLegales"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="20dp"
+        android:text="Aviso Legal"
+        android:textColor="@color/teal_700"
+        app:cornerRadius="20dp"
+        style="?attr/materialButtonOutlinedStyle"
+        app:strokeColor="@color/teal_700"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/listadohongospais"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/teal_700"
+        android:gravity="center"
+        android:padding="4dp"
+        android:text="https://darelmartinez.com/"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.39"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

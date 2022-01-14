@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myAppGPSHongos</string>
+    <string name="hongos_por_paises">Hongos por Paises</string>
+    <string name="nombre_cientifico">Nombre Cientifico</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/psych/AndroidStudioProjects/myAppGPSHongos/app/src/main/res/layout/activity_aspectos_legales.xml" value="0.1" />
+        <entry key="..\:/Users/psych/AndroidStudioProjects/myAppGPSHongos/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/drawable/ic_comestible.xml" value="0.41640625" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/drawable/ic_icon_hongo.xml" value="0.41640625" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/drawable/ic_imagen_no_disponible_svg.xml" value="0.47109375" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2640625" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.41640625" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/drawable/ic_toxica.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/drawable/list_view_border.xml" value="0.40234375" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout-land/agregar_hongos.xml" value="0.18342151675485008" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout-land/descripcion_hongo.xml" value="0.25" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout-land/list_element_hongo.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/activity_aspectos_legales.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/agregarHongo.xml" value="0.1" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/agregar_hongos.xml" value="0.1" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/descripcion_hongo.xml" value="0.33" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/hongo.xml" value="0.1" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/list_element_hongo.xml" value="0.33" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/lista_hongos_pais.xml" value="0.26763110307414106" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/main2.xml" value="0.22" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/layout/web.xml" value="0.375" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/psych/Desktop/myAppGPSHongos/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24166666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.26763110307414106" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
